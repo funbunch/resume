@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "Shannan Bunch",
+    "email": "shannanbunch@gmail.com",
+    "phone": "(310) 422-7833",
+    "website": "http://bunchofideas.com/",
+    "location": {
+      "postalCode": "90066",
+      "city": "Los Angeles",
+      "region": "CA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sbunch/"
+      },
+      {
+        "network": "Git",
+        "url": "https://github.com/funbunch"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Dollar Shave Club",
+      "position": "Software Engineer, Email/Landing",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Emails - Developed emails that scale internationally, accessibly, and visually, across all major supported email clients. Worked with the team on an ESP Migration project.",
+      "highlights": [
+        "Adhered to WCAG 2.0 AA Accessibility Standards to ensure optimal reach for our email communications",
+        "Worked with an international stakeholder per country (three in total) to provide region-specific campaigns for guests and club members.",
+        "Worked closely with Engineering and Design to adhere to multiple design systems to create progressive, responsive, and engaging experiences for our customers.",
+        "Involved in an ESP Migration from an in-house solution (Voice) to Cheetah Digital, reinterpreting email structures to ensure the new platform is being utilized as effectively as possible."
+      ]
+    },
+    {
+      "company": "IHeartMedia",
+      "position": "Freelance Front End Developer",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Worked closely with a small team as one of two FED’s.",
+      "highlights": [
+        "Created landing pages using HTML, CSS, jQuery, Bootstrap, Grunt, and Bower.",
+        "Worked to create reusable modules making development of landing pages more efficient."
+      ]
+    },
+    {
+      "company": "Guess Inc.",
+      "position": "Freelance Front End Developer",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Created responsive emails and performed website updates for Guess,Guess Kids, Marciano, G by Guess, and Guess Factory.",
+      "highlights": [
+        "Worked closely with project managers and the CRM team to develop emails and website updates."
+      ]
+    },
+    {
+      "company": "Advisor Launchpad",
+      "position": "Front End Developer",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Worked as a member of the Web Services team for financial industry clients to develop and maintain websites and templates for customers",
+      "highlights": [
+        "Worked cross-collaboratively and closely with Customer Facing Implementation, Customer Success Representatives, and the Front End Design and Development teams.",
+        "Promoted and maintained best UX practices and provided creative solutions to complex customer requests.",
+        "Performed front end code deployments and built new templates including static page leveraging CSS (Bootstrap), and jQuery and converted them into ASP.NET templates within Ektron."
+      ]
+    },
+    {
+      "company": "Various Ad Agencies And Interactive Firms",
+      "position": "Freelance Web Content Manager/Front End Developer",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Worked as a contractor at various agencies.",
+      "highlights": [
+        "Performed web maintenance at Saatchi & Saatchi LA for the 2013 carryovers on Toyota.com. Worked with a team of producers to ensure accurate delivery.",
+        "Worked as a developer for CrownPeak supporting the redesign of their own site www.crownpeak.com."
+      ]
+    },
+    {
+      "company": "Deutsch",
+      "position": "Web Content Manager",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Worked within a large technology team at the leading ad agency of the time.",
+      "highlights": [
+        "Website maintenance and development for clients including Volkswagen and HTC.",
+        "Worked closely with engineering, design and a dedicated QA team to ensure timelines were upheld.",
+        "Lead the email development and testing initiatives for Volkswagen using Campaign Monitor and Litmus.",
+        "Responsible for frontend development for Anthem’s refresh across 5 Anthem Connects entities."
+      ]
+    },
+    {
+      "company": "Lunchbox, Electronic Arts, Fonality, Kastner & Partners",
+      "position": "Freelance Digital Production Artist",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Arkansas",
+      "area": "Psychology",
+      "studyType": "BA"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML5/CSS3",
+      "level": "Master",
+      "keywords": [
+        "Email Client Compliant HTML",
+        "SASS",
+        "Bootstrap 3 & 4/Foundation"
+      ]
+    },
+    {
+      "name": "Javascript/ES6",
+      "level": "Beginner to Mid-level",
+      "keywords": [
+        "Babel, WebPack, Grunt, Bower, NPM, Yarn, etc",
+        "Testing (little to no experience)"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Beginner",
+      "keywords": [
+        "React",
+        "Vue.js (little experience)"
+      ]
+    },
+    {
+      "name": "Testing/Accessibility",
+      "keywords": [
+        "AQA",
+        "Litmus"
+      ]
+    },
+    {
+      "name": "Linux/Mac",
+      "keywords": [
+        "Git",
+        "Bash/command line"
+      ]
+    },
+    {
+      "name": "Design Tools",
+      "keywords": [
+        "Adobe Creative Suite CC",
+        "Sketch",
+        "Zeplin"
+      ]
+    },
+    { "meta": { "theme": "elegant" } }
+  ]
+}
